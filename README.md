@@ -1,4 +1,4 @@
-<h2>Hello! I'm Júnior Duda!</h2>
+<h2>Hello! I'm Junior Duda!</h2>
 <p><em>Full Stack Developer at <a href="https://stant.com.br/"><img src="https://www.novo.stant.com.br/wp-content/uploads/2017/08/logocolor.png" width="80"></a> 
 </em></p>
 
