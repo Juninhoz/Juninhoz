@@ -1,5 +1,5 @@
 <h2>Hello! I'm Junior Duda!</h2>
-<p><em>Full Stack Developer at <a href="https://stant.com.br/"><img src="https://www.novo.stant.com.br/wp-content/uploads/2017/08/logocolor.png" width="80"></a> 
+<p><em>Ruby on Rails Developer at <a href="https://www.grafeno.digital"><img src="https://www.grafeno.digital/img/logo-grafeno.png" width="80"></a> 
 </em></p>
 
 :mortar_board: bachelor degree in Information Systems
