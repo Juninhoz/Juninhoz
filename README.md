@@ -1,5 +1,5 @@
 <h2>Hello! I'm Junior Duda!</h2>
-<p><em>Ruby on Rails Developer at <a href="https://www.grafeno.digital"><img src="https://www.grafeno.digital/img/logo-grafeno.png" width="80"></a> 
+<p><em>Ruby on Rails Developer at <a href="https://github.com/grafeno-sa">@grafeno-sa</a> 
 </em></p>
 
 :mortar_board: bachelor degree in Information Systems
@@ -8,5 +8,5 @@
 [![](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/junior.duda.3/)](https://www.facebook.com/junior.duda.3/)
 ![GitHub followers](https://img.shields.io/github/followers/Juninhoz?label=Follow&style=social)
 <a href="https://dev.to/juninhoz">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Junior Duda's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Junior Duda's DEV Profile" class="dev-badge crayons-icon" height="30" width="30">
 </a>
