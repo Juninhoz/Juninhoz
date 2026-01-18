@@ -5,5 +5,4 @@
 :mortar_board: bachelor degree in Information Systems
 
 [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/junior-duda/)](https://www.linkedin.com/in/junior-duda/)
-[![](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=Facebook&logoColor=white&color=blue&link=https://www.facebook.com/junior.duda.3/)](https://www.facebook.com/juninhozduda/)
 ![GitHub followers](https://img.shields.io/github/followers/Juninhoz?label=Follow&style=social)
